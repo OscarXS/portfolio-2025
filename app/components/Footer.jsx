@@ -41,7 +41,7 @@ const Footer = ({ isDarkMode }) => {
             <p className='text-sm'>&copy; {d.getFullYear()} Oscar Sebeloane. All rights reserved.</p>
             <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
                 <li className='text-sm transition duration-50 hover:underline hover:-translate-y-[1px] hover:ease-in hover:underline-offset-2 hover:text-[#ec1552]'><a href="https://www.instagram.com/oscar_iamart">Instagram</a></li>
-                <li className='text-sm transition duration-50 hover:underline hover:-translate-y-[1px] hover:ease-in hover:underline-offset-2 hover:text-[#ec1552]'><a href="https://www.linkedin.com/in/oscar-sebeloane-6873583">linkedIn</a></li>
+                <li className='text-sm transition duration-50 hover:underline hover:-translate-y-[1px] hover:ease-in hover:underline-offset-2 hover:text-[#ec1552]'><a href="https://www.linkedin.com/in/oscar-sebeloane-68735830/">linkedIn</a></li>
                 <li className='text-sm transition duration-50 hover:underline hover:-translate-y-[1px] hover:ease-in hover:underline-offset-2 hover:text-[#ec1552]'><a href="https://www.facebook.com/osebeloane/">Facebook</a></li>
             </ul>
         </motion.div>

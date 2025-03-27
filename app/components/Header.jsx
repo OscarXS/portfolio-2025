@@ -57,7 +57,7 @@ const Header = ({ isDarkMode }) => {
             />
             </motion.a>
 
-            <motion.a 
+            {/* <motion.a 
                 initial={{ x: 30, opacity: 0 }}
                 whileInView={{ x: 0, opacity: 1 }}
                 transition={{ duration: 0.8, delay: 1 }}
@@ -68,7 +68,7 @@ const Header = ({ isDarkMode }) => {
                 alt=''
                 className='w-4'
             />
-            </motion.a>
+            </motion.a> */}
         </div>
     </section>
   )
